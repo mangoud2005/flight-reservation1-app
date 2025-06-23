@@ -1,0 +1,3 @@
+([('main',
+   '/Users/abdulrahmanmangoud/PycharmProjects/flight reservation app/dist/main',
+   'EXECUTABLE')],)
