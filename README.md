@@ -4,7 +4,7 @@
 A simple yet powerful desktop application built with **Python** and **Tkinter** to manage flight reservations.
 
 This app allows users to:
-- 📝 Book a flight
+- 📝 Booking
 - 📋 View all reservations
 - ✏️ Edit existing reservations
 - 🗑️ Delete reservations
