@@ -16,7 +16,7 @@ This app allows users to:
 
 > Simple and intuitive UI using `tkinter`.
 
-![App Screenshot](first.png)
+![App Screenshot](first.png)..
 ![App Screenshot](second.png)
 ![App Screenshot](third.png)
 ---
