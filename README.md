@@ -12,7 +12,7 @@ This app allows users to:
 
 ---
 
-## 📸 Interface Preview
+## 📸 Interface Preview 1
 
 > Simple and intuitive UI using `tkinter`.
 
