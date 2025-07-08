@@ -95,7 +95,7 @@ Made by **Abdulrahman Mangoud**
 [GitHub](https://github.com/mangoud2005) | [LinkedIn](www.linkedin.com/in/abdulrahman-mangoud-408ab21a5)
 
 
-<<<<<<< HEAD
+
 # flight-reservation-app
 
  1895795 (🚀 Initial commit)
