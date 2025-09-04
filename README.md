@@ -91,6 +91,8 @@ Feel free to modify, improve or include it in your portfolio ⭐
 ## 💬 Author
 
 Made by **Abdulrahman Mangoud**
+⚠️ This project is proprietary. All rights reserved. Usage, distribution, or modification without permission is strictly prohibited.
+
 
 [GitHub](https://github.com/mangoud2005) | [LinkedIn](www.linkedin.com/in/abdulrahman-mangoud-408ab21a5)
 
